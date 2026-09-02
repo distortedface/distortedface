@@ -41,7 +41,5 @@ SpinningCube is developed and maintained through personal funding and effort.
 
 If you like this tool and would like to support its continued development, please consider helping out here:
 
-- ☕ [Support SpinningCube](YOUR_SUPPORT_URL)
-- ❤️ [Sponsor development](YOUR_SPONSOR_URL)
-
+- ☕ [Support SpinningCube (Buy me a coffee)](https://buymeacoffee.com/syamu)
 Thank you for visiting.****
