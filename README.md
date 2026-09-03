@@ -1,5 +1,3 @@
-# Hello, I'm distortedface 👋
-
 I am an independent developer based in Kyoto.
 
 I am currently developing **[SpinningCube.run](https://spinningcube.run)**, a local-first repository verification tool focused on providing reproducible evidence.
